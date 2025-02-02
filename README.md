@@ -1,18 +1,18 @@
 ## Local Setup
 1. Open terminal/command prompt.
 2. Clone the repository:
-    git clone https://github.com/Mandeep-009/mindflare
+    `git clone https://github.com/Mandeep-009/mindflare`
 3. Change directory:
-    cd mindflare
+    `cd mindflare`
 4. Install dependencies:
-    npm i
+    `npm i`
 5. Run the project:
-    npm start
+    `npm start`
 
 ## Sample API requests 
 **Get**
-`/users` --> returns all the users
+`/users` --> returns all the users __
 **Post**
-`/users` --> takes input in JSON format for name and email
+`/users` --> takes input in JSON format for name and email __
 **Delete**
 `/users/:id` --> deletes the user with that `id`
