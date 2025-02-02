@@ -11,8 +11,8 @@
 
 ## Sample API requests 
 **Get**
-`/users` --> returns all the users __
+`/users` --> returns all the users__
 **Post**
-`/users` --> takes input in JSON format for name and email __
+`/users` --> takes input in JSON format for name and email__
 **Delete**
 `/users/:id` --> deletes the user with that `id`
